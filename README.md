@@ -1,8 +1,7 @@
 # Paras2
 This is a implemention of an interactive application using a client-server architecture simulating a quiz program. 
-Assessment Requirements / Tasks
-You are required to implement an interactive application using a client-server architecture simulating a quiz program. 
-Fig. 1 illustrates a high-level overview of the required system. 
+
+Requirements / Tasks
  
 Figure 1: Client-server architecture for the interactive multiplayer quiz program
 As depicted in Fig. 1, the system consists of software simulating server component and a client component (that can be executed multiple times simulating N number of clients).
