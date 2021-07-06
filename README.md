@@ -1,4 +1,4 @@
-# Paras2
+# Quiz game
 This is a implemention of an interactive application using a client-server architecture simulating a quiz program. 
 
 Requirements / Tasks
